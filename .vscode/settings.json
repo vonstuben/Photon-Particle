@@ -1,0 +1,15 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "cortex-debug.openocdPath": "${command:particle.getDebuggerOpenocdPath}",
+    "files.associations": {
+        "*.ino": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "particle.targetDevice": "28002b001847353236343033",
+    "particle.firmwareVersion": "1.5.0",
+    "particle.targetPlatform": "photon",
+    "azure-iot-edge.defaultPlatform": {
+        "platform": "windows-amd64",
+        "alias": null
+    }
+}
